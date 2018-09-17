@@ -1,0 +1,6 @@
+C:\dev\GameofLifeDojo\Life\bin\Debug\Life.dll
+C:\dev\GameofLifeDojo\Life\bin\Debug\Life.pdb
+C:\dev\GameofLifeDojo\Life\obj\Debug\Life.csprojAssemblyReference.cache
+C:\dev\GameofLifeDojo\Life\obj\Debug\Life.csproj.CoreCompileInputs.cache
+C:\dev\GameofLifeDojo\Life\obj\Debug\Life.dll
+C:\dev\GameofLifeDojo\Life\obj\Debug\Life.pdb
